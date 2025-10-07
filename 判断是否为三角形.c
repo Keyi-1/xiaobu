@@ -1,4 +1,4 @@
-//判断是否为三角形
+//鍒ゆ柇鏄惁涓轰笁瑙掑舰
 #include <stdio.h>
 
 int main(void)
@@ -18,4 +18,5 @@ int main(void)
         }
     }
     return 0;
+
 }
