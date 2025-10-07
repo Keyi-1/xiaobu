@@ -1,4 +1,4 @@
-//这是一个计算利率的作业
+//这是一个计算还款月份的作业
 #include <stdio.h>
 #include <math.h>
 
@@ -25,3 +25,4 @@ int main(void)
     return 0;
 
 }
+
