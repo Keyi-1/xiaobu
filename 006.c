@@ -1,4 +1,4 @@
-//������ҵ
+//这是一个计算利率的作业
 #include <stdio.h>
 #include <math.h>
 
@@ -23,4 +23,5 @@ int main(void)
     printf("m=%.1f",m);
 
     return 0;
+
 }
